@@ -1,5 +1,2 @@
-# test-repo
-This is a test repo
-A line I wrote on my local computer
-Hi it's test to edit file from emacs
-TEST FROM R STUDIO
+# KNN Model from scratch
+This is a KNN model built from scratch.
